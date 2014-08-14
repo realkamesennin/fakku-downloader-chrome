@@ -26,7 +26,7 @@ Start browsing [[NSFW] Fakku](http://www.fakku.net/) looking for good stuff.
 
 ### step5
 
-Click the new and awsome 'Fakku Downloader' button.
+Click the new and awesome 'Fakku Downloader' button.
 
 ![alt tag](https://raw.githubusercontent.com/realkamesennin/fakku-downloader-chrome/gh-pages/images/step5.png)
 
