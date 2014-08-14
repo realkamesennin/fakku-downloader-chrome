@@ -1,0 +1,19 @@
+{
+  "name": "fakkudownloader",
+  "version": "1.0",
+  "description": "Fakku Downloader Chrome Extension - Download entire mangas with one click",
+  "main": "main.js",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "zip.js": "*",
+    "FileSaver": "*"
+  }
+}
